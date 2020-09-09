@@ -1,6 +1,7 @@
 Welcome to git!!!
 Happy learning
-Change 1:-by teammate for WorkItem7
-Change 2: logout feature
-Change 3:to test push to remote repo
+Change 1:- by teammate for WorkItem7
+Change 2:- logout feature
+Change 3:- to test push to remote repo
+Change 4:- made by teammate to push and to test pull operation
 
